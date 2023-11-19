@@ -1,0 +1,67 @@
+﻿<Directives xmlns="http://schemas.microsoft.com/netfx/2013/01/metadata">
+  <Application>
+    <Assembly Name="bootstrap" Dynamic="Required All"/>
+    <Assembly Name="AWSSDK.Core" Dynamic="Required All"/>
+    <Assembly Name="AWSSDK.DynamoDBv2" Dynamic="Required All"/>
+    <Assembly Name="Amazon.Lambda.APIGatewayEvents" Dynamic="Required All"/>
+    <Assembly Name="Models" Dynamic="Required All"/>
+    <Assembly Name="Repository" Dynamic="Required All"/>
+    <Assembly Name="Shared" Dynamic="Required All"/>
+    <Assembly Name="System.Collections">
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Boolean,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Byte,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Byte[],System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Char,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.DateTime,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Decimal,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Double,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Guid,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Int16,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Int32,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Int64,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.UInt16,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.UInt32,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.UInt64,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.SByte,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.Single,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.HashSet`1[[System.String,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Boolean,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Byte,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Byte[],System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Char,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.DateTime,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Decimal,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Double,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Guid,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Int16,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Int32,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Int64,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.UInt16,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.UInt32,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.UInt64,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.SByte,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.Single,System.Runtime]]" Dynamic="Required All" />
+      <Type Name="System.Collections.Generic.List`1[[System.String,System.Runtime]]" Dynamic="Required All" />
+    </Assembly>
+    <Assembly Name="System.Runtime">
+      <Type Name="System.Nullable`1[System.Byte]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.SByte]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.UInt16]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Int32]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.UInt32]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Int16]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Int64]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.UInt64]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Single]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Double]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Decimal]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Char]" Dynamic="Required All"/>'
+      <Type Name="System.Nullable`1[System.DateTime]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Guid]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Enum]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.Boolean]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.IO.MemoryStream]" Dynamic="Required All"/>
+      <Type Name="System.Nullable`1[System.String]" Dynamic="Required All"/>
+    </Assembly>
+  </Application>
+</Directives>
